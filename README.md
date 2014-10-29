@@ -15,4 +15,4 @@ npm install
 npm start
 ```
 
-A webserver will be available on http://localhost:3000 serving the static `public/index.html` file
+A webserver will be available on [http://localhost:3000](http://localhost:3000) serving the static `public/index.html` file
