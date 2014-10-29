@@ -1,7 +1,7 @@
 node-static-website-jumpstart
 =============================
 
-Super quick example of nodejs servring static files
+Super quick example of nodejs serving static files
 
 ## Installation
 
