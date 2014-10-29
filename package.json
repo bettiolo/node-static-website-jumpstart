@@ -1,5 +1,5 @@
 {
-  "name": "internal-api-docs",
+  "name": "static-website",
   "version": "1.0.0",
   "description": "Super quick example of nodejs servring static files",
   "main": "index.js",
